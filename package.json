@@ -1,5 +1,5 @@
 {
-  "name": "express-response",
+  "name": "@wesleytodd/express-response",
   "version": "1.0.0",
   "description": "The express response object",
   "main": "index.js",
